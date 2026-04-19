@@ -87,6 +87,9 @@ def build() -> None:
     static_dir.mkdir(exist_ok=True)
     (static_dir / "style.css").write_text(_static_css(), encoding="utf-8")
 
+    # Tell GitHub Pages to skip Jekyll (serve static files as-is)
+    (docs_dir / ".nojekyll").touch()
+
     # Build subproject detail pages
     for subproject_dir, manifest in manifests:
         route = manifest.get("route", subproject_dir.name)
