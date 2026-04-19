@@ -1,0 +1,27 @@
+{
+  "name": "房价地图",
+  "description": "分析全国各城市买房 vs 租房的经济性，并用交互式地图可视化",
+  "route": "estate-investment",
+  "visualizations": [
+    {
+      "title": "买房 vs 租房净收益",
+      "file": "buy_vs_rent_map.html",
+      "description": "30年持有周期，假设房价年增值2%、机会成本4%"
+    },
+    {
+      "title": "租金回报率",
+      "file": "rental_yield_map.html",
+      "description": "年租金 / 房价 × 100%，覆盖322个城市"
+    },
+    {
+      "title": "城市租金水平",
+      "file": "city_rent_map.html",
+      "description": "各城市单位面积月租金分布"
+    },
+    {
+      "title": "深圳 & 香港房价热力图",
+      "file": "estate_price_heatmap.html",
+      "description": "基于模拟数据的 district-level 热力图"
+    }
+  ]
+}

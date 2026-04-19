@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+<header>
+  <h1>{{ site.title }}</h1>
+  <p>{{ site.description }}</p>
+</header>
+
+<div class="grid">
+  {% for sp in subprojects %}
+  <a class="card" href="{{ sp.route }}/">
+    <h2>{{ sp.name }}</h2>
+    <p>{{ sp.description }}</p>
+  </a>
+  {% endfor %}
+</div>
+{% endblock %}

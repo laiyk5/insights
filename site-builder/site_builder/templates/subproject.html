@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block title %}{{ subproject.name }} | {{ site.title }}{% endblock %}
+
+{% block content %}
+<a class="back-link" href="../">← Back to projects</a>
+
+<header>
+  <h1>{{ subproject.name }}</h1>
+  <p>{{ subproject.description }}</p>
+</header>
+
+<ul class="viz-list">
+  {% for viz in subproject.visualizations %}
+  <li>
+    <a href="{{ viz.file }}">{{ viz.title }}</a>
+    <small>{{ viz.description }}</small>
+  </li>
+  {% endfor %}
+</ul>
+{% endblock %}
