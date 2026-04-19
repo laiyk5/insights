@@ -17,11 +17,6 @@
       "title": "城市租金水平",
       "file": "city_rent_map.html",
       "description": "各城市单位面积月租金分布"
-    },
-    {
-      "title": "深圳 & 香港房价热力图",
-      "file": "estate_price_heatmap.html",
-      "description": "基于模拟数据的 district-level 热力图"
     }
   ]
 }
