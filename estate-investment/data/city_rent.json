@@ -1,0 +1,2256 @@
+[
+  {
+    "city_name": "北京",
+    "province_name": "北京",
+    "listing_count": 77872,
+    "rent_per_sqm_monthly": 95.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "上海",
+    "province_name": "上海",
+    "listing_count": 81567,
+    "rent_per_sqm_monthly": 89.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "深圳",
+    "province_name": "广东",
+    "listing_count": 33663,
+    "rent_per_sqm_monthly": 79.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "杭州",
+    "province_name": "浙江",
+    "listing_count": 49627,
+    "rent_per_sqm_monthly": 52.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "广州",
+    "province_name": "广东",
+    "listing_count": 26785,
+    "rent_per_sqm_monthly": 51.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "三亚",
+    "province_name": "海南",
+    "listing_count": 2579,
+    "rent_per_sqm_monthly": 47.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "南京",
+    "province_name": "江苏",
+    "listing_count": 35192,
+    "rent_per_sqm_monthly": 42.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "林芝",
+    "province_name": "西藏",
+    "listing_count": 513,
+    "rent_per_sqm_monthly": 41.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "厦门",
+    "province_name": "福建",
+    "listing_count": 5730,
+    "rent_per_sqm_monthly": 41.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "成都",
+    "province_name": "四川",
+    "listing_count": 33349,
+    "rent_per_sqm_monthly": 35.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "天津",
+    "province_name": "天津",
+    "listing_count": 24156,
+    "rent_per_sqm_monthly": 34.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "珠海",
+    "province_name": "广东",
+    "listing_count": 8303,
+    "rent_per_sqm_monthly": 34.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "福州",
+    "province_name": "福建",
+    "listing_count": 7839,
+    "rent_per_sqm_monthly": 33.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "日喀则",
+    "province_name": "西藏",
+    "listing_count": 97,
+    "rent_per_sqm_monthly": 32.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "宁波",
+    "province_name": "浙江",
+    "listing_count": 20199,
+    "rent_per_sqm_monthly": 32.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "拉萨",
+    "province_name": "西藏",
+    "listing_count": 1605,
+    "rent_per_sqm_monthly": 31.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "武汉",
+    "province_name": "湖北",
+    "listing_count": 22259,
+    "rent_per_sqm_monthly": 31.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "苏州",
+    "province_name": "江苏",
+    "listing_count": 38625,
+    "rent_per_sqm_monthly": 31.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "海口",
+    "province_name": "海南",
+    "listing_count": 6275,
+    "rent_per_sqm_monthly": 30.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "阿勒泰",
+    "province_name": "新疆",
+    "listing_count": 141,
+    "rent_per_sqm_monthly": 29.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "西安",
+    "province_name": "陕西",
+    "listing_count": 20939,
+    "rent_per_sqm_monthly": 28.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "大连",
+    "province_name": "辽宁",
+    "listing_count": 13033,
+    "rent_per_sqm_monthly": 28.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "舟山",
+    "province_name": "浙江",
+    "listing_count": 974,
+    "rent_per_sqm_monthly": 28.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "汕头",
+    "province_name": "广东",
+    "listing_count": 6937,
+    "rent_per_sqm_monthly": 27.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "金华",
+    "province_name": "浙江",
+    "listing_count": 6641,
+    "rent_per_sqm_monthly": 27.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "长沙",
+    "province_name": "湖南",
+    "listing_count": 17993,
+    "rent_per_sqm_monthly": 27.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "合肥",
+    "province_name": "安徽",
+    "listing_count": 17437,
+    "rent_per_sqm_monthly": 26.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "台州",
+    "province_name": "浙江",
+    "listing_count": 2876,
+    "rent_per_sqm_monthly": 26.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "东莞",
+    "province_name": "广东",
+    "listing_count": 9530,
+    "rent_per_sqm_monthly": 26.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "温州",
+    "province_name": "浙江",
+    "listing_count": 3799,
+    "rent_per_sqm_monthly": 26.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "大理",
+    "province_name": "云南",
+    "listing_count": 1682,
+    "rent_per_sqm_monthly": 26.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "西双版纳",
+    "province_name": "云南",
+    "listing_count": 1672,
+    "rent_per_sqm_monthly": 26.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "乌鲁木齐",
+    "province_name": "新疆",
+    "listing_count": 9459,
+    "rent_per_sqm_monthly": 26.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "无锡",
+    "province_name": "江苏",
+    "listing_count": 9158,
+    "rent_per_sqm_monthly": 26.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "西宁",
+    "province_name": "青海",
+    "listing_count": 2596,
+    "rent_per_sqm_monthly": 25.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "沈阳",
+    "province_name": "辽宁",
+    "listing_count": 62833,
+    "rent_per_sqm_monthly": 25.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "兰州",
+    "province_name": "甘肃",
+    "listing_count": 9905,
+    "rent_per_sqm_monthly": 25.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "哈尔滨",
+    "province_name": "黑龙江",
+    "listing_count": 14125,
+    "rent_per_sqm_monthly": 25.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "佛山",
+    "province_name": "广东",
+    "listing_count": 13736,
+    "rent_per_sqm_monthly": 25.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "绍兴",
+    "province_name": "浙江",
+    "listing_count": 4736,
+    "rent_per_sqm_monthly": 25.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "重庆",
+    "province_name": "重庆",
+    "listing_count": 37830,
+    "rent_per_sqm_monthly": 24.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "青岛",
+    "province_name": "山东",
+    "listing_count": 12857,
+    "rent_per_sqm_monthly": 24.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "榆林",
+    "province_name": "陕西",
+    "listing_count": 741,
+    "rent_per_sqm_monthly": 24.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "济南",
+    "province_name": "山东",
+    "listing_count": 15079,
+    "rent_per_sqm_monthly": 24.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "莆田",
+    "province_name": "福建",
+    "listing_count": 1447,
+    "rent_per_sqm_monthly": 24.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "昆明",
+    "province_name": "云南",
+    "listing_count": 13002,
+    "rent_per_sqm_monthly": 23.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "丽水",
+    "province_name": "浙江",
+    "listing_count": 1356,
+    "rent_per_sqm_monthly": 23.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "长春",
+    "province_name": "吉林",
+    "listing_count": 7432,
+    "rent_per_sqm_monthly": 23.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "宁德",
+    "province_name": "福建",
+    "listing_count": 898,
+    "rent_per_sqm_monthly": 23.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "贵阳",
+    "province_name": "贵州",
+    "listing_count": 7026,
+    "rent_per_sqm_monthly": 23.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "泉州",
+    "province_name": "福建",
+    "listing_count": 5077,
+    "rent_per_sqm_monthly": 23.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "常州",
+    "province_name": "江苏",
+    "listing_count": 12875,
+    "rent_per_sqm_monthly": 22.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "嘉兴",
+    "province_name": "浙江",
+    "listing_count": 8069,
+    "rent_per_sqm_monthly": 22.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "郑州",
+    "province_name": "河南",
+    "listing_count": 10067,
+    "rent_per_sqm_monthly": 22.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "南宁",
+    "province_name": "广西",
+    "listing_count": 10447,
+    "rent_per_sqm_monthly": 22.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "克拉玛依",
+    "province_name": "新疆",
+    "listing_count": 755,
+    "rent_per_sqm_monthly": 22.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "湖州",
+    "province_name": "浙江",
+    "listing_count": 4181,
+    "rent_per_sqm_monthly": 22.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "石家庄",
+    "province_name": "河北",
+    "listing_count": 15039,
+    "rent_per_sqm_monthly": 22.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "延安",
+    "province_name": "陕西",
+    "listing_count": 533,
+    "rent_per_sqm_monthly": 22.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "南昌",
+    "province_name": "江西",
+    "listing_count": 4457,
+    "rent_per_sqm_monthly": 22.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "宜宾",
+    "province_name": "四川",
+    "listing_count": 2854,
+    "rent_per_sqm_monthly": 22.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "本溪",
+    "province_name": "辽宁",
+    "listing_count": 873,
+    "rent_per_sqm_monthly": 22.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "凉山",
+    "province_name": "四川",
+    "listing_count": 1803,
+    "rent_per_sqm_monthly": 22.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "漳州",
+    "province_name": "福建",
+    "listing_count": 1633,
+    "rent_per_sqm_monthly": 22.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "湛江",
+    "province_name": "广东",
+    "listing_count": 2977,
+    "rent_per_sqm_monthly": 21.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "江门",
+    "province_name": "广东",
+    "listing_count": 1160,
+    "rent_per_sqm_monthly": 21.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "鄂尔多斯",
+    "province_name": "内蒙古",
+    "listing_count": 864,
+    "rent_per_sqm_monthly": 21.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "潮州",
+    "province_name": "广东",
+    "listing_count": 205,
+    "rent_per_sqm_monthly": 21.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "扬州",
+    "province_name": "江苏",
+    "listing_count": 3322,
+    "rent_per_sqm_monthly": 21.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "三明",
+    "province_name": "福建",
+    "listing_count": 492,
+    "rent_per_sqm_monthly": 21.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "中山",
+    "province_name": "广东",
+    "listing_count": 3543,
+    "rent_per_sqm_monthly": 21.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "大庆",
+    "province_name": "黑龙江",
+    "listing_count": 828,
+    "rent_per_sqm_monthly": 21.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "和田",
+    "province_name": "新疆",
+    "listing_count": 294,
+    "rent_per_sqm_monthly": 21.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "呼和浩特",
+    "province_name": "内蒙古",
+    "listing_count": 7436,
+    "rent_per_sqm_monthly": 21.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "庆阳",
+    "province_name": "甘肃",
+    "listing_count": 775,
+    "rent_per_sqm_monthly": 21.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "山南",
+    "province_name": "西藏",
+    "listing_count": 95,
+    "rent_per_sqm_monthly": 20.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "南通",
+    "province_name": "江苏",
+    "listing_count": 5374,
+    "rent_per_sqm_monthly": 20.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "惠州",
+    "province_name": "广东",
+    "listing_count": 5533,
+    "rent_per_sqm_monthly": 20.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "阿克苏",
+    "province_name": "新疆",
+    "listing_count": 1773,
+    "rent_per_sqm_monthly": 20.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "丽江",
+    "province_name": "云南",
+    "listing_count": 923,
+    "rent_per_sqm_monthly": 20.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "锦州",
+    "province_name": "辽宁",
+    "listing_count": 1544,
+    "rent_per_sqm_monthly": 20.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "衢州",
+    "province_name": "浙江",
+    "listing_count": 1584,
+    "rent_per_sqm_monthly": 20.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "普洱",
+    "province_name": "云南",
+    "listing_count": 396,
+    "rent_per_sqm_monthly": 20.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "宜昌",
+    "province_name": "湖北",
+    "listing_count": 3813,
+    "rent_per_sqm_monthly": 20.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "鞍山",
+    "province_name": "辽宁",
+    "listing_count": 667,
+    "rent_per_sqm_monthly": 20.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "赣州",
+    "province_name": "江西",
+    "listing_count": 932,
+    "rent_per_sqm_monthly": 20.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "十堰",
+    "province_name": "湖北",
+    "listing_count": 881,
+    "rent_per_sqm_monthly": 20.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "甘孜",
+    "province_name": "四川",
+    "listing_count": 56,
+    "rent_per_sqm_monthly": 20.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "茂名",
+    "province_name": "广东",
+    "listing_count": 800,
+    "rent_per_sqm_monthly": 20.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "汕尾",
+    "province_name": "广东",
+    "listing_count": 571,
+    "rent_per_sqm_monthly": 19.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "德宏",
+    "province_name": "云南",
+    "listing_count": 356,
+    "rent_per_sqm_monthly": 19.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "金昌",
+    "province_name": "甘肃",
+    "listing_count": 294,
+    "rent_per_sqm_monthly": 19.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "芜湖",
+    "province_name": "安徽",
+    "listing_count": 4637,
+    "rent_per_sqm_monthly": 19.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "伊犁",
+    "province_name": "新疆",
+    "listing_count": 2725,
+    "rent_per_sqm_monthly": 19.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "揭阳",
+    "province_name": "广东",
+    "listing_count": 1409,
+    "rent_per_sqm_monthly": 19.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "南平",
+    "province_name": "福建",
+    "listing_count": 1418,
+    "rent_per_sqm_monthly": 19.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "海西",
+    "province_name": "青海",
+    "listing_count": 449,
+    "rent_per_sqm_monthly": 19.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "吉林",
+    "province_name": "吉林",
+    "listing_count": 2240,
+    "rent_per_sqm_monthly": 19.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "柳州",
+    "province_name": "广西",
+    "listing_count": 2783,
+    "rent_per_sqm_monthly": 19.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "太原",
+    "province_name": "山西",
+    "listing_count": 12783,
+    "rent_per_sqm_monthly": 19.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "邯郸",
+    "province_name": "河北",
+    "listing_count": 2638,
+    "rent_per_sqm_monthly": 19.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "肇庆",
+    "province_name": "广东",
+    "listing_count": 1152,
+    "rent_per_sqm_monthly": 19.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "郴州",
+    "province_name": "湖南",
+    "listing_count": 1646,
+    "rent_per_sqm_monthly": 19.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "攀枝花",
+    "province_name": "四川",
+    "listing_count": 2152,
+    "rent_per_sqm_monthly": 19.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "儋州",
+    "province_name": "海南",
+    "listing_count": 160,
+    "rent_per_sqm_monthly": 19.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "张家界",
+    "province_name": "湖南",
+    "listing_count": 726,
+    "rent_per_sqm_monthly": 19.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "秦皇岛",
+    "province_name": "河北",
+    "listing_count": 2155,
+    "rent_per_sqm_monthly": 19.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "天水",
+    "province_name": "甘肃",
+    "listing_count": 2089,
+    "rent_per_sqm_monthly": 19.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "阜新",
+    "province_name": "辽宁",
+    "listing_count": 1037,
+    "rent_per_sqm_monthly": 18.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "嘉峪关",
+    "province_name": "甘肃",
+    "listing_count": 631,
+    "rent_per_sqm_monthly": 18.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "丹东",
+    "province_name": "辽宁",
+    "listing_count": 4463,
+    "rent_per_sqm_monthly": 18.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "呼伦贝尔",
+    "province_name": "内蒙古",
+    "listing_count": 804,
+    "rent_per_sqm_monthly": 18.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "延边",
+    "province_name": "吉林",
+    "listing_count": 1648,
+    "rent_per_sqm_monthly": 18.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "通辽",
+    "province_name": "内蒙古",
+    "listing_count": 3567,
+    "rent_per_sqm_monthly": 18.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "辽阳",
+    "province_name": "辽宁",
+    "listing_count": 317,
+    "rent_per_sqm_monthly": 18.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "廊坊",
+    "province_name": "河北",
+    "listing_count": 3631,
+    "rent_per_sqm_monthly": 18.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "吐鲁番",
+    "province_name": "新疆",
+    "listing_count": 138,
+    "rent_per_sqm_monthly": 18.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "景德镇",
+    "province_name": "江西",
+    "listing_count": 2019,
+    "rent_per_sqm_monthly": 18.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "临沧",
+    "province_name": "云南",
+    "listing_count": 202,
+    "rent_per_sqm_monthly": 18.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "泰州",
+    "province_name": "江苏",
+    "listing_count": 2497,
+    "rent_per_sqm_monthly": 18.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "洛阳",
+    "province_name": "河南",
+    "listing_count": 2976,
+    "rent_per_sqm_monthly": 18.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "衡阳",
+    "province_name": "湖南",
+    "listing_count": 2275,
+    "rent_per_sqm_monthly": 18.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "大同",
+    "province_name": "山西",
+    "listing_count": 615,
+    "rent_per_sqm_monthly": 18.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "喀什",
+    "province_name": "新疆",
+    "listing_count": 1340,
+    "rent_per_sqm_monthly": 18.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "连云港",
+    "province_name": "江苏",
+    "listing_count": 6560,
+    "rent_per_sqm_monthly": 18.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "襄阳",
+    "province_name": "湖北",
+    "listing_count": 1747,
+    "rent_per_sqm_monthly": 18.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "巴州",
+    "province_name": "新疆",
+    "listing_count": 1214,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "酒泉",
+    "province_name": "甘肃",
+    "listing_count": 708,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "龙岩",
+    "province_name": "福建",
+    "listing_count": 1040,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "滁州",
+    "province_name": "安徽",
+    "listing_count": 1296,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "辽源",
+    "province_name": "吉林",
+    "listing_count": 438,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "烟台",
+    "province_name": "山东",
+    "listing_count": 4741,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "梧州",
+    "province_name": "广西",
+    "listing_count": 492,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "岳阳",
+    "province_name": "湖南",
+    "listing_count": 1069,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "抚顺",
+    "province_name": "辽宁",
+    "listing_count": 849,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "六盘水",
+    "province_name": "贵州",
+    "listing_count": 998,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "威海",
+    "province_name": "山东",
+    "listing_count": 4526,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "齐齐哈尔",
+    "province_name": "黑龙江",
+    "listing_count": 2376,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "哈密",
+    "province_name": "新疆",
+    "listing_count": 1098,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "绵阳",
+    "province_name": "四川",
+    "listing_count": 3589,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "赤峰",
+    "province_name": "内蒙古",
+    "listing_count": 4092,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "通化",
+    "province_name": "吉林",
+    "listing_count": 812,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "上饶",
+    "province_name": "江西",
+    "listing_count": 1682,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "韶关",
+    "province_name": "广东",
+    "listing_count": 944,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "盐城",
+    "province_name": "江苏",
+    "listing_count": 3023,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "镇江",
+    "province_name": "江苏",
+    "listing_count": 5583,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "恩施",
+    "province_name": "湖北",
+    "listing_count": 1580,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "鸡西",
+    "province_name": "黑龙江",
+    "listing_count": 617,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "包头",
+    "province_name": "内蒙古",
+    "listing_count": 3884,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "广元",
+    "province_name": "四川",
+    "listing_count": 1237,
+    "rent_per_sqm_monthly": 17.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "佳木斯",
+    "province_name": "黑龙江",
+    "listing_count": 1073,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "四平",
+    "province_name": "吉林",
+    "listing_count": 902,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "黄山",
+    "province_name": "安徽",
+    "listing_count": 465,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "兴安",
+    "province_name": "内蒙古",
+    "listing_count": 690,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "桂林",
+    "province_name": "广西",
+    "listing_count": 3151,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "泸州",
+    "province_name": "四川",
+    "listing_count": 2868,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "锡林郭勒",
+    "province_name": "内蒙古",
+    "listing_count": 343,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "株洲",
+    "province_name": "湖南",
+    "listing_count": 1751,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "湘西",
+    "province_name": "湖南",
+    "listing_count": 621,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "沧州",
+    "province_name": "河北",
+    "listing_count": 2287,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "伊春",
+    "province_name": "黑龙江",
+    "listing_count": 175,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "焦作",
+    "province_name": "河南",
+    "listing_count": 829,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "承德",
+    "province_name": "河北",
+    "listing_count": 1442,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "绥化",
+    "province_name": "黑龙江",
+    "listing_count": 605,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "白银",
+    "province_name": "甘肃",
+    "listing_count": 414,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "松原",
+    "province_name": "吉林",
+    "listing_count": 492,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "九江",
+    "province_name": "江西",
+    "listing_count": 2343,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "七台河",
+    "province_name": "黑龙江",
+    "listing_count": 292,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "唐山",
+    "province_name": "河北",
+    "listing_count": 7416,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "随州",
+    "province_name": "湖北",
+    "listing_count": 247,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "平凉",
+    "province_name": "甘肃",
+    "listing_count": 975,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "雅安",
+    "province_name": "四川",
+    "listing_count": 846,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "徐州",
+    "province_name": "江苏",
+    "listing_count": 3274,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "马鞍山",
+    "province_name": "安徽",
+    "listing_count": 1936,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "宜春",
+    "province_name": "江西",
+    "listing_count": 1560,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "德阳",
+    "province_name": "四川",
+    "listing_count": 2760,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "淄博",
+    "province_name": "山东",
+    "listing_count": 3710,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "新余",
+    "province_name": "江西",
+    "listing_count": 294,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "陇南",
+    "province_name": "甘肃",
+    "listing_count": 130,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "黑河",
+    "province_name": "黑龙江",
+    "listing_count": 158,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "银川",
+    "province_name": "宁夏",
+    "listing_count": 3919,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "盘锦",
+    "province_name": "辽宁",
+    "listing_count": 1151,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "铜陵",
+    "province_name": "安徽",
+    "listing_count": 1073,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "咸阳",
+    "province_name": "陕西",
+    "listing_count": 4371,
+    "rent_per_sqm_monthly": 16.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "荆门",
+    "province_name": "湖北",
+    "listing_count": 1169,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "白山",
+    "province_name": "吉林",
+    "listing_count": 222,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "亳州",
+    "province_name": "安徽",
+    "listing_count": 1409,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "贺州",
+    "province_name": "广西",
+    "listing_count": 353,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "荆州",
+    "province_name": "湖北",
+    "listing_count": 1504,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "宣城",
+    "province_name": "安徽",
+    "listing_count": 1230,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "临夏",
+    "province_name": "甘肃",
+    "listing_count": 644,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "益阳",
+    "province_name": "湖南",
+    "listing_count": 1007,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "池州",
+    "province_name": "安徽",
+    "listing_count": 1633,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "贵港",
+    "province_name": "广西",
+    "listing_count": 540,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "朝阳",
+    "province_name": "辽宁",
+    "listing_count": 1094,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "保定",
+    "province_name": "河北",
+    "listing_count": 6538,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "阳江",
+    "province_name": "广东",
+    "listing_count": 1021,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "长治",
+    "province_name": "山西",
+    "listing_count": 2148,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "玉林",
+    "province_name": "广西",
+    "listing_count": 1391,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "双鸭山",
+    "province_name": "黑龙江",
+    "listing_count": 223,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "铜仁",
+    "province_name": "贵州",
+    "listing_count": 224,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "黔东南",
+    "province_name": "贵州",
+    "listing_count": 430,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "白城",
+    "province_name": "吉林",
+    "listing_count": 627,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "铜川",
+    "province_name": "陕西",
+    "listing_count": 694,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "玉溪",
+    "province_name": "云南",
+    "listing_count": 1108,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "鹤壁",
+    "province_name": "河南",
+    "listing_count": 373,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "百色",
+    "province_name": "广西",
+    "listing_count": 737,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "黄石",
+    "province_name": "湖北",
+    "listing_count": 2444,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "葫芦岛",
+    "province_name": "辽宁",
+    "listing_count": 756,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "南充",
+    "province_name": "四川",
+    "listing_count": 1718,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "常德",
+    "province_name": "湖南",
+    "listing_count": 970,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "清远",
+    "province_name": "广东",
+    "listing_count": 2382,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "孝感",
+    "province_name": "湖北",
+    "listing_count": 1545,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "红河",
+    "province_name": "云南",
+    "listing_count": 1368,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "牡丹江",
+    "province_name": "黑龙江",
+    "listing_count": 1076,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "安康",
+    "province_name": "陕西",
+    "listing_count": 983,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "平顶山",
+    "province_name": "河南",
+    "listing_count": 1748,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "保山",
+    "province_name": "云南",
+    "listing_count": 630,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "遵义",
+    "province_name": "贵州",
+    "listing_count": 2155,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "渭南",
+    "province_name": "陕西",
+    "listing_count": 1158,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "乐山",
+    "province_name": "四川",
+    "listing_count": 2329,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "自贡",
+    "province_name": "四川",
+    "listing_count": 1341,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "忻州",
+    "province_name": "山西",
+    "listing_count": 529,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "黄冈",
+    "province_name": "湖北",
+    "listing_count": 901,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "邵阳",
+    "province_name": "湖南",
+    "listing_count": 376,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "淮安",
+    "province_name": "江苏",
+    "listing_count": 2696,
+    "rent_per_sqm_monthly": 15.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "云浮",
+    "province_name": "广东",
+    "listing_count": 352,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "梅州",
+    "province_name": "广东",
+    "listing_count": 197,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "安庆",
+    "province_name": "安徽",
+    "listing_count": 2507,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "内江",
+    "province_name": "四川",
+    "listing_count": 1964,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "崇左",
+    "province_name": "广西",
+    "listing_count": 183,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "晋城",
+    "province_name": "山西",
+    "listing_count": 729,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "吉安",
+    "province_name": "江西",
+    "listing_count": 2568,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "乌海",
+    "province_name": "内蒙古",
+    "listing_count": 545,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "蚌埠",
+    "province_name": "安徽",
+    "listing_count": 1443,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "临汾",
+    "province_name": "山西",
+    "listing_count": 486,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "张家口",
+    "province_name": "河北",
+    "listing_count": 4096,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "铁岭",
+    "province_name": "辽宁",
+    "listing_count": 1056,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "宿迁",
+    "province_name": "江苏",
+    "listing_count": 4028,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "固原",
+    "province_name": "宁夏",
+    "listing_count": 299,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "武威",
+    "province_name": "甘肃",
+    "listing_count": 416,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "淮南",
+    "province_name": "安徽",
+    "listing_count": 1538,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "三门峡",
+    "province_name": "河南",
+    "listing_count": 319,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "河池",
+    "province_name": "广西",
+    "listing_count": 409,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "鹰潭",
+    "province_name": "江西",
+    "listing_count": 842,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "许昌",
+    "province_name": "河南",
+    "listing_count": 2704,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "定西",
+    "province_name": "甘肃",
+    "listing_count": 578,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "开封",
+    "province_name": "河南",
+    "listing_count": 2687,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "海东",
+    "province_name": "青海",
+    "listing_count": 183,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "阿拉善",
+    "province_name": "内蒙古",
+    "listing_count": 47,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "昌吉",
+    "province_name": "新疆",
+    "listing_count": 1282,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "达州",
+    "province_name": "四川",
+    "listing_count": 1953,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "克州",
+    "province_name": "新疆",
+    "listing_count": 34,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "眉山",
+    "province_name": "四川",
+    "listing_count": 1926,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "阳泉",
+    "province_name": "山西",
+    "listing_count": 430,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "营口",
+    "province_name": "辽宁",
+    "listing_count": 1467,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "安顺",
+    "province_name": "贵州",
+    "listing_count": 1193,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "萍乡",
+    "province_name": "江西",
+    "listing_count": 252,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "咸宁",
+    "province_name": "湖北",
+    "listing_count": 1025,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "新乡",
+    "province_name": "河南",
+    "listing_count": 1307,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "枣庄",
+    "province_name": "山东",
+    "listing_count": 3166,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "聊城",
+    "province_name": "山东",
+    "listing_count": 888,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "来宾",
+    "province_name": "广西",
+    "listing_count": 381,
+    "rent_per_sqm_monthly": 14.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "宝鸡",
+    "province_name": "陕西",
+    "listing_count": 3711,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "濮阳",
+    "province_name": "河南",
+    "listing_count": 1737,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "汉中",
+    "province_name": "陕西",
+    "listing_count": 896,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "南阳",
+    "province_name": "河南",
+    "listing_count": 2784,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "楚雄",
+    "province_name": "云南",
+    "listing_count": 683,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "鄂州",
+    "province_name": "湖北",
+    "listing_count": 1382,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "北海",
+    "province_name": "广西",
+    "listing_count": 4802,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "临沂",
+    "province_name": "山东",
+    "listing_count": 4598,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "曲靖",
+    "province_name": "云南",
+    "listing_count": 901,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "防城港",
+    "province_name": "广西",
+    "listing_count": 1247,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "博州",
+    "province_name": "新疆",
+    "listing_count": 416,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "晋中",
+    "province_name": "山西",
+    "listing_count": 1044,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "泰安",
+    "province_name": "山东",
+    "listing_count": 3706,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "毕节",
+    "province_name": "贵州",
+    "listing_count": 1354,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "信阳",
+    "province_name": "河南",
+    "listing_count": 2376,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "商洛",
+    "province_name": "陕西",
+    "listing_count": 286,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "安阳",
+    "province_name": "河南",
+    "listing_count": 979,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "遂宁",
+    "province_name": "四川",
+    "listing_count": 3071,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "商丘",
+    "province_name": "河南",
+    "listing_count": 3207,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "黔西南",
+    "province_name": "贵州",
+    "listing_count": 763,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "娄底",
+    "province_name": "湖南",
+    "listing_count": 996,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "六安",
+    "province_name": "安徽",
+    "listing_count": 1722,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "乌兰察布",
+    "province_name": "内蒙古",
+    "listing_count": 611,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "衡水",
+    "province_name": "河北",
+    "listing_count": 2599,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "驻马店",
+    "province_name": "河南",
+    "listing_count": 1444,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "运城",
+    "province_name": "山西",
+    "listing_count": 1113,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "张掖",
+    "province_name": "甘肃",
+    "listing_count": 497,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "永州",
+    "province_name": "湖南",
+    "listing_count": 713,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "河源",
+    "province_name": "广东",
+    "listing_count": 684,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "东营",
+    "province_name": "山东",
+    "listing_count": 4415,
+    "rent_per_sqm_monthly": 13.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "济宁",
+    "province_name": "山东",
+    "listing_count": 3357,
+    "rent_per_sqm_monthly": 12.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "文山",
+    "province_name": "云南",
+    "listing_count": 849,
+    "rent_per_sqm_monthly": 12.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "潍坊",
+    "province_name": "山东",
+    "listing_count": 7294,
+    "rent_per_sqm_monthly": 12.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "吕梁",
+    "province_name": "山西",
+    "listing_count": 422,
+    "rent_per_sqm_monthly": 12.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "漯河",
+    "province_name": "河南",
+    "listing_count": 806,
+    "rent_per_sqm_monthly": 12.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "黔南",
+    "province_name": "贵州",
+    "listing_count": 1609,
+    "rent_per_sqm_monthly": 12.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "昭通",
+    "province_name": "云南",
+    "listing_count": 742,
+    "rent_per_sqm_monthly": 12.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "怀化",
+    "province_name": "湖南",
+    "listing_count": 878,
+    "rent_per_sqm_monthly": 12.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "广安",
+    "province_name": "四川",
+    "listing_count": 1234,
+    "rent_per_sqm_monthly": 12.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "巴中",
+    "province_name": "四川",
+    "listing_count": 1744,
+    "rent_per_sqm_monthly": 12.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "巴彦淖尔",
+    "province_name": "内蒙古",
+    "listing_count": 1396,
+    "rent_per_sqm_monthly": 12.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "资阳",
+    "province_name": "四川",
+    "listing_count": 508,
+    "rent_per_sqm_monthly": 12.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "鹤岗",
+    "province_name": "黑龙江",
+    "listing_count": 186,
+    "rent_per_sqm_monthly": 11.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "德州",
+    "province_name": "山东",
+    "listing_count": 2937,
+    "rent_per_sqm_monthly": 11.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "钦州",
+    "province_name": "广西",
+    "listing_count": 595,
+    "rent_per_sqm_monthly": 11.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "淮北",
+    "province_name": "安徽",
+    "listing_count": 769,
+    "rent_per_sqm_monthly": 11.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "吴忠",
+    "province_name": "宁夏",
+    "listing_count": 446,
+    "rent_per_sqm_monthly": 11.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "石嘴山",
+    "province_name": "宁夏",
+    "listing_count": 757,
+    "rent_per_sqm_monthly": 11.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "周口",
+    "province_name": "河南",
+    "listing_count": 3588,
+    "rent_per_sqm_monthly": 11.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "邢台",
+    "province_name": "河北",
+    "listing_count": 1900,
+    "rent_per_sqm_monthly": 11.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "日照",
+    "province_name": "山东",
+    "listing_count": 2355,
+    "rent_per_sqm_monthly": 11.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "阜阳",
+    "province_name": "安徽",
+    "listing_count": 1313,
+    "rent_per_sqm_monthly": 11.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "朔州",
+    "province_name": "山西",
+    "listing_count": 425,
+    "rent_per_sqm_monthly": 11.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "湘潭",
+    "province_name": "湖南",
+    "listing_count": 871,
+    "rent_per_sqm_monthly": 10.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "中卫",
+    "province_name": "宁夏",
+    "listing_count": 843,
+    "rent_per_sqm_monthly": 10.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "滨州",
+    "province_name": "山东",
+    "listing_count": 3378,
+    "rent_per_sqm_monthly": 10.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "菏泽",
+    "province_name": "山东",
+    "listing_count": 5062,
+    "rent_per_sqm_monthly": 10.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "抚州",
+    "province_name": "江西",
+    "listing_count": 836,
+    "rent_per_sqm_monthly": 9.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "宿州",
+    "province_name": "安徽",
+    "listing_count": 1421,
+    "rent_per_sqm_monthly": 9.0,
+    "recorded_at": "2026-04-20"
+  }
+]

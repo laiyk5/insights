@@ -1,0 +1,2256 @@
+[
+  {
+    "city_name": "深圳",
+    "province_name": "广东",
+    "listing_count": 21225,
+    "price_per_sqm": 69500.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "上海",
+    "province_name": "上海",
+    "listing_count": 41841,
+    "price_per_sqm": 61000.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "北京",
+    "province_name": "北京",
+    "listing_count": 36348,
+    "price_per_sqm": 56700.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "杭州",
+    "province_name": "浙江",
+    "listing_count": 18778,
+    "price_per_sqm": 35400.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "厦门",
+    "province_name": "福建",
+    "listing_count": 6605,
+    "price_per_sqm": 33900.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "广州",
+    "province_name": "广东",
+    "listing_count": 17727,
+    "price_per_sqm": 33600.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "三亚",
+    "province_name": "海南",
+    "listing_count": 1630,
+    "price_per_sqm": 30600.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "南京",
+    "province_name": "江苏",
+    "listing_count": 29399,
+    "price_per_sqm": 25100.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "东莞",
+    "province_name": "广东",
+    "listing_count": 5407,
+    "price_per_sqm": 20800.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "珠海",
+    "province_name": "广东",
+    "listing_count": 8563,
+    "price_per_sqm": 20100.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "福州",
+    "province_name": "福建",
+    "listing_count": 5936,
+    "price_per_sqm": 19700.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "天津",
+    "province_name": "天津",
+    "listing_count": 16108,
+    "price_per_sqm": 19300.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "宁波",
+    "province_name": "浙江",
+    "listing_count": 19198,
+    "price_per_sqm": 17600.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "苏州",
+    "province_name": "江苏",
+    "listing_count": 32059,
+    "price_per_sqm": 16900.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "台州",
+    "province_name": "浙江",
+    "listing_count": 3960,
+    "price_per_sqm": 15800.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "青岛",
+    "province_name": "山东",
+    "listing_count": 16270,
+    "price_per_sqm": 15800.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "金华",
+    "province_name": "浙江",
+    "listing_count": 6071,
+    "price_per_sqm": 15600.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "温州",
+    "province_name": "浙江",
+    "listing_count": 4280,
+    "price_per_sqm": 15300.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "合肥",
+    "province_name": "安徽",
+    "listing_count": 9687,
+    "price_per_sqm": 15000.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "丽水",
+    "province_name": "浙江",
+    "listing_count": 676,
+    "price_per_sqm": 14600.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "成都",
+    "province_name": "四川",
+    "listing_count": 22279,
+    "price_per_sqm": 14300.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "无锡",
+    "province_name": "江苏",
+    "listing_count": 16198,
+    "price_per_sqm": 14300.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "绍兴",
+    "province_name": "浙江",
+    "listing_count": 9610,
+    "price_per_sqm": 14100.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "榆林",
+    "province_name": "陕西",
+    "listing_count": 350,
+    "price_per_sqm": 13300.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "海口",
+    "province_name": "海南",
+    "listing_count": 3626,
+    "price_per_sqm": 13200.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "嘉兴",
+    "province_name": "浙江",
+    "listing_count": 7864,
+    "price_per_sqm": 13200.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "济南",
+    "province_name": "山东",
+    "listing_count": 14048,
+    "price_per_sqm": 12900.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "武汉",
+    "province_name": "湖北",
+    "listing_count": 13115,
+    "price_per_sqm": 12800.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "佛山",
+    "province_name": "广东",
+    "listing_count": 9584,
+    "price_per_sqm": 12800.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "衢州",
+    "province_name": "浙江",
+    "listing_count": 1550,
+    "price_per_sqm": 12700.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "西安",
+    "province_name": "陕西",
+    "listing_count": 13896,
+    "price_per_sqm": 12400.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "大理",
+    "province_name": "云南",
+    "listing_count": 1459,
+    "price_per_sqm": 12400.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "常州",
+    "province_name": "江苏",
+    "listing_count": 23150,
+    "price_per_sqm": 12100.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "拉萨",
+    "province_name": "西藏",
+    "listing_count": 894,
+    "price_per_sqm": 12000.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "泉州",
+    "province_name": "福建",
+    "listing_count": 2643,
+    "price_per_sqm": 11900.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "莆田",
+    "province_name": "福建",
+    "listing_count": 1428,
+    "price_per_sqm": 11900.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "舟山",
+    "province_name": "浙江",
+    "listing_count": 1000,
+    "price_per_sqm": 11500.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "宁德",
+    "province_name": "福建",
+    "listing_count": 466,
+    "price_per_sqm": 11300.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "汕头",
+    "province_name": "广东",
+    "listing_count": 11217,
+    "price_per_sqm": 11000.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "昆明",
+    "province_name": "云南",
+    "listing_count": 13848,
+    "price_per_sqm": 10800.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "郑州",
+    "province_name": "河南",
+    "listing_count": 6658,
+    "price_per_sqm": 10700.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "大连",
+    "province_name": "辽宁",
+    "listing_count": 11717,
+    "price_per_sqm": 10600.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "石家庄",
+    "province_name": "河北",
+    "listing_count": 9073,
+    "price_per_sqm": 10500.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "漳州",
+    "province_name": "福建",
+    "listing_count": 2388,
+    "price_per_sqm": 10500.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "南通",
+    "province_name": "江苏",
+    "listing_count": 9995,
+    "price_per_sqm": 10300.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "扬州",
+    "province_name": "江苏",
+    "listing_count": 4677,
+    "price_per_sqm": 10100.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "南宁",
+    "province_name": "广西",
+    "listing_count": 13133,
+    "price_per_sqm": 9964.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "湖州",
+    "province_name": "浙江",
+    "listing_count": 8646,
+    "price_per_sqm": 9961.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "泰州",
+    "province_name": "江苏",
+    "listing_count": 5219,
+    "price_per_sqm": 9857.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "长沙",
+    "province_name": "湖南",
+    "listing_count": 8868,
+    "price_per_sqm": 9852.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "南昌",
+    "province_name": "江西",
+    "listing_count": 7449,
+    "price_per_sqm": 9831.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "芜湖",
+    "province_name": "安徽",
+    "listing_count": 5572,
+    "price_per_sqm": 9580.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "太原",
+    "province_name": "山西",
+    "listing_count": 12145,
+    "price_per_sqm": 9525.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "兰州",
+    "province_name": "甘肃",
+    "listing_count": 7428,
+    "price_per_sqm": 9439.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "三明",
+    "province_name": "福建",
+    "listing_count": 453,
+    "price_per_sqm": 9075.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "湛江",
+    "province_name": "广东",
+    "listing_count": 2303,
+    "price_per_sqm": 9036.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "重庆",
+    "province_name": "重庆",
+    "listing_count": 34235,
+    "price_per_sqm": 9030.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "邯郸",
+    "province_name": "河北",
+    "listing_count": 3456,
+    "price_per_sqm": 9005.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "日喀则",
+    "province_name": "西藏",
+    "listing_count": 71,
+    "price_per_sqm": 8931.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "中山",
+    "province_name": "广东",
+    "listing_count": 7316,
+    "price_per_sqm": 8825.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "西宁",
+    "province_name": "青海",
+    "listing_count": 3891,
+    "price_per_sqm": 8748.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "哈尔滨",
+    "province_name": "黑龙江",
+    "listing_count": 16420,
+    "price_per_sqm": 8641.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "廊坊",
+    "province_name": "河北",
+    "listing_count": 5784,
+    "price_per_sqm": 8568.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "凉山",
+    "province_name": "四川",
+    "listing_count": 1544,
+    "price_per_sqm": 8547.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "乌鲁木齐",
+    "province_name": "新疆",
+    "listing_count": 7841,
+    "price_per_sqm": 8450.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "龙岩",
+    "province_name": "福建",
+    "listing_count": 404,
+    "price_per_sqm": 8394.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "沈阳",
+    "province_name": "辽宁",
+    "listing_count": 14869,
+    "price_per_sqm": 8369.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "呼和浩特",
+    "province_name": "内蒙古",
+    "listing_count": 7442,
+    "price_per_sqm": 8353.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "秦皇岛",
+    "province_name": "河北",
+    "listing_count": 2748,
+    "price_per_sqm": 8321.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "连云港",
+    "province_name": "江苏",
+    "listing_count": 4635,
+    "price_per_sqm": 8272.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "长治",
+    "province_name": "山西",
+    "listing_count": 3782,
+    "price_per_sqm": 8174.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "潮州",
+    "province_name": "广东",
+    "listing_count": 73,
+    "price_per_sqm": 8110.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "沧州",
+    "province_name": "河北",
+    "listing_count": 2609,
+    "price_per_sqm": 7998.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "惠州",
+    "province_name": "广东",
+    "listing_count": 9960,
+    "price_per_sqm": 7997.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "聊城",
+    "province_name": "山东",
+    "listing_count": 3333,
+    "price_per_sqm": 7936.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "唐山",
+    "province_name": "河北",
+    "listing_count": 7058,
+    "price_per_sqm": 7929.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "泰安",
+    "province_name": "山东",
+    "listing_count": 3901,
+    "price_per_sqm": 7848.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "赣州",
+    "province_name": "江西",
+    "listing_count": 2477,
+    "price_per_sqm": 7841.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "陇南",
+    "province_name": "甘肃",
+    "listing_count": 393,
+    "price_per_sqm": 7824.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "洛阳",
+    "province_name": "河南",
+    "listing_count": 4576,
+    "price_per_sqm": 7726.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "盐城",
+    "province_name": "江苏",
+    "listing_count": 5842,
+    "price_per_sqm": 7685.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "黄山",
+    "province_name": "安徽",
+    "listing_count": 1255,
+    "price_per_sqm": 7574.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "鄂尔多斯",
+    "province_name": "内蒙古",
+    "listing_count": 1853,
+    "price_per_sqm": 7542.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "长春",
+    "province_name": "吉林",
+    "listing_count": 28481,
+    "price_per_sqm": 7541.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "揭阳",
+    "province_name": "广东",
+    "listing_count": 473,
+    "price_per_sqm": 7505.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "贵阳",
+    "province_name": "贵州",
+    "listing_count": 11273,
+    "price_per_sqm": 7474.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "日照",
+    "province_name": "山东",
+    "listing_count": 1210,
+    "price_per_sqm": 7469.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "九江",
+    "province_name": "江西",
+    "listing_count": 5232,
+    "price_per_sqm": 7437.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "徐州",
+    "province_name": "江苏",
+    "listing_count": 6741,
+    "price_per_sqm": 7420.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "晋城",
+    "province_name": "山西",
+    "listing_count": 729,
+    "price_per_sqm": 7417.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "承德",
+    "province_name": "河北",
+    "listing_count": 1608,
+    "price_per_sqm": 7400.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "绵阳",
+    "province_name": "四川",
+    "listing_count": 6578,
+    "price_per_sqm": 7363.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "烟台",
+    "province_name": "山东",
+    "listing_count": 11454,
+    "price_per_sqm": 7350.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "庆阳",
+    "province_name": "甘肃",
+    "listing_count": 522,
+    "price_per_sqm": 7348.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "南平",
+    "province_name": "福建",
+    "listing_count": 1183,
+    "price_per_sqm": 7341.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "丽江",
+    "province_name": "云南",
+    "listing_count": 955,
+    "price_per_sqm": 7307.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "林芝",
+    "province_name": "西藏",
+    "listing_count": 267,
+    "price_per_sqm": 7278.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "镇江",
+    "province_name": "江苏",
+    "listing_count": 15316,
+    "price_per_sqm": 7258.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "马鞍山",
+    "province_name": "安徽",
+    "listing_count": 2254,
+    "price_per_sqm": 7194.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "淄博",
+    "province_name": "山东",
+    "listing_count": 4597,
+    "price_per_sqm": 7190.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "临沂",
+    "province_name": "山东",
+    "listing_count": 10062,
+    "price_per_sqm": 7176.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "银川",
+    "province_name": "宁夏",
+    "listing_count": 4996,
+    "price_per_sqm": 7082.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "池州",
+    "province_name": "安徽",
+    "listing_count": 1391,
+    "price_per_sqm": 7064.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "江门",
+    "province_name": "广东",
+    "listing_count": 2968,
+    "price_per_sqm": 7063.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "汕尾",
+    "province_name": "广东",
+    "listing_count": 237,
+    "price_per_sqm": 7059.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "威海",
+    "province_name": "山东",
+    "listing_count": 7862,
+    "price_per_sqm": 7046.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "德州",
+    "province_name": "山东",
+    "listing_count": 2212,
+    "price_per_sqm": 6945.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "保定",
+    "province_name": "河北",
+    "listing_count": 9307,
+    "price_per_sqm": 6932.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "枣庄",
+    "province_name": "山东",
+    "listing_count": 4164,
+    "price_per_sqm": 6897.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "山南",
+    "province_name": "西藏",
+    "listing_count": 59,
+    "price_per_sqm": 6894.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "普洱",
+    "province_name": "云南",
+    "listing_count": 428,
+    "price_per_sqm": 6862.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "临汾",
+    "province_name": "山西",
+    "listing_count": 1034,
+    "price_per_sqm": 6859.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "伊犁",
+    "province_name": "新疆",
+    "listing_count": 2971,
+    "price_per_sqm": 6835.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "肇庆",
+    "province_name": "广东",
+    "listing_count": 1718,
+    "price_per_sqm": 6826.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "襄阳",
+    "province_name": "湖北",
+    "listing_count": 4707,
+    "price_per_sqm": 6819.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "鹤壁",
+    "province_name": "河南",
+    "listing_count": 701,
+    "price_per_sqm": 6806.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "宿迁",
+    "province_name": "江苏",
+    "listing_count": 7657,
+    "price_per_sqm": 6803.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "吕梁",
+    "province_name": "山西",
+    "listing_count": 377,
+    "price_per_sqm": 6742.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "茂名",
+    "province_name": "广东",
+    "listing_count": 1051,
+    "price_per_sqm": 6731.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "济宁",
+    "province_name": "山东",
+    "listing_count": 6117,
+    "price_per_sqm": 6708.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "甘孜",
+    "province_name": "四川",
+    "listing_count": 43,
+    "price_per_sqm": 6700.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "广元",
+    "province_name": "四川",
+    "listing_count": 1156,
+    "price_per_sqm": 6692.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "咸阳",
+    "province_name": "陕西",
+    "listing_count": 3787,
+    "price_per_sqm": 6680.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "西双版纳",
+    "province_name": "云南",
+    "listing_count": 1432,
+    "price_per_sqm": 6660.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "儋州",
+    "province_name": "海南",
+    "listing_count": 122,
+    "price_per_sqm": 6647.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "宜宾",
+    "province_name": "四川",
+    "listing_count": 2288,
+    "price_per_sqm": 6615.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "天水",
+    "province_name": "甘肃",
+    "listing_count": 1891,
+    "price_per_sqm": 6565.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "衡水",
+    "province_name": "河北",
+    "listing_count": 2554,
+    "price_per_sqm": 6564.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "柳州",
+    "province_name": "广西",
+    "listing_count": 4347,
+    "price_per_sqm": 6562.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "吉安",
+    "province_name": "江西",
+    "listing_count": 4052,
+    "price_per_sqm": 6546.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "宜昌",
+    "province_name": "湖北",
+    "listing_count": 5651,
+    "price_per_sqm": 6522.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "安庆",
+    "province_name": "安徽",
+    "listing_count": 3926,
+    "price_per_sqm": 6476.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "宣城",
+    "province_name": "安徽",
+    "listing_count": 1019,
+    "price_per_sqm": 6466.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "忻州",
+    "province_name": "山西",
+    "listing_count": 632,
+    "price_per_sqm": 6458.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "包头",
+    "province_name": "内蒙古",
+    "listing_count": 7245,
+    "price_per_sqm": 6406.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "梅州",
+    "province_name": "广东",
+    "listing_count": 334,
+    "price_per_sqm": 6384.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "濮阳",
+    "province_name": "河南",
+    "listing_count": 2019,
+    "price_per_sqm": 6370.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "蚌埠",
+    "province_name": "安徽",
+    "listing_count": 2634,
+    "price_per_sqm": 6360.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "邢台",
+    "province_name": "河北",
+    "listing_count": 2276,
+    "price_per_sqm": 6352.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "滨州",
+    "province_name": "山东",
+    "listing_count": 3500,
+    "price_per_sqm": 6312.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "十堰",
+    "province_name": "湖北",
+    "listing_count": 1596,
+    "price_per_sqm": 6285.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "张家口",
+    "province_name": "河北",
+    "listing_count": 4071,
+    "price_per_sqm": 6240.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "东营",
+    "province_name": "山东",
+    "listing_count": 10237,
+    "price_per_sqm": 6231.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "宜春",
+    "province_name": "江西",
+    "listing_count": 1341,
+    "price_per_sqm": 6193.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "潍坊",
+    "province_name": "山东",
+    "listing_count": 10436,
+    "price_per_sqm": 6189.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "阜阳",
+    "province_name": "安徽",
+    "listing_count": 3029,
+    "price_per_sqm": 6188.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "上饶",
+    "province_name": "江西",
+    "listing_count": 1809,
+    "price_per_sqm": 6186.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "商洛",
+    "province_name": "陕西",
+    "listing_count": 279,
+    "price_per_sqm": 6167.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "临夏",
+    "province_name": "甘肃",
+    "listing_count": 1725,
+    "price_per_sqm": 6165.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "武威",
+    "province_name": "甘肃",
+    "listing_count": 888,
+    "price_per_sqm": 6088.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "淮安",
+    "province_name": "江苏",
+    "listing_count": 4202,
+    "price_per_sqm": 6086.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "开封",
+    "province_name": "河南",
+    "listing_count": 2013,
+    "price_per_sqm": 6065.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "吴忠",
+    "province_name": "宁夏",
+    "listing_count": 566,
+    "price_per_sqm": 6061.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "赤峰",
+    "province_name": "内蒙古",
+    "listing_count": 3084,
+    "price_per_sqm": 6036.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "亳州",
+    "province_name": "安徽",
+    "listing_count": 827,
+    "price_per_sqm": 5995.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "临沧",
+    "province_name": "云南",
+    "listing_count": 240,
+    "price_per_sqm": 5966.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "焦作",
+    "province_name": "河南",
+    "listing_count": 1068,
+    "price_per_sqm": 5950.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "定西",
+    "province_name": "甘肃",
+    "listing_count": 454,
+    "price_per_sqm": 5945.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "德阳",
+    "province_name": "四川",
+    "listing_count": 2782,
+    "price_per_sqm": 5894.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "桂林",
+    "province_name": "广西",
+    "listing_count": 8284,
+    "price_per_sqm": 5877.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "晋中",
+    "province_name": "山西",
+    "listing_count": 2033,
+    "price_per_sqm": 5853.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "酒泉",
+    "province_name": "甘肃",
+    "listing_count": 1426,
+    "price_per_sqm": 5846.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "运城",
+    "province_name": "山西",
+    "listing_count": 926,
+    "price_per_sqm": 5843.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "德宏",
+    "province_name": "云南",
+    "listing_count": 392,
+    "price_per_sqm": 5838.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "铜陵",
+    "province_name": "安徽",
+    "listing_count": 1205,
+    "price_per_sqm": 5833.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "保山",
+    "province_name": "云南",
+    "listing_count": 761,
+    "price_per_sqm": 5828.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "新乡",
+    "province_name": "河南",
+    "listing_count": 3165,
+    "price_per_sqm": 5815.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "攀枝花",
+    "province_name": "四川",
+    "listing_count": 990,
+    "price_per_sqm": 5791.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "张家界",
+    "province_name": "湖南",
+    "listing_count": 623,
+    "price_per_sqm": 5763.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "恩施",
+    "province_name": "湖北",
+    "listing_count": 991,
+    "price_per_sqm": 5761.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "安阳",
+    "province_name": "河南",
+    "listing_count": 1739,
+    "price_per_sqm": 5758.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "信阳",
+    "province_name": "河南",
+    "listing_count": 4797,
+    "price_per_sqm": 5722.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "景德镇",
+    "province_name": "江西",
+    "listing_count": 1543,
+    "price_per_sqm": 5715.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "新余",
+    "province_name": "江西",
+    "listing_count": 721,
+    "price_per_sqm": 5714.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "平凉",
+    "province_name": "甘肃",
+    "listing_count": 958,
+    "price_per_sqm": 5710.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "延安",
+    "province_name": "陕西",
+    "listing_count": 508,
+    "price_per_sqm": 5710.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "通辽",
+    "province_name": "内蒙古",
+    "listing_count": 4866,
+    "price_per_sqm": 5704.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "鹰潭",
+    "province_name": "江西",
+    "listing_count": 738,
+    "price_per_sqm": 5690.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "汉中",
+    "province_name": "陕西",
+    "listing_count": 1075,
+    "price_per_sqm": 5689.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "大同",
+    "province_name": "山西",
+    "listing_count": 1793,
+    "price_per_sqm": 5689.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "遂宁",
+    "province_name": "四川",
+    "listing_count": 1841,
+    "price_per_sqm": 5688.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "抚州",
+    "province_name": "江西",
+    "listing_count": 1400,
+    "price_per_sqm": 5653.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "商丘",
+    "province_name": "河南",
+    "listing_count": 4481,
+    "price_per_sqm": 5637.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "锦州",
+    "province_name": "辽宁",
+    "listing_count": 2161,
+    "price_per_sqm": 5620.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "丹东",
+    "province_name": "辽宁",
+    "listing_count": 3599,
+    "price_per_sqm": 5614.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "郴州",
+    "province_name": "湖南",
+    "listing_count": 3746,
+    "price_per_sqm": 5603.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "玉溪",
+    "province_name": "云南",
+    "listing_count": 2035,
+    "price_per_sqm": 5600.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "许昌",
+    "province_name": "河南",
+    "listing_count": 2103,
+    "price_per_sqm": 5599.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "滁州",
+    "province_name": "安徽",
+    "listing_count": 3222,
+    "price_per_sqm": 5598.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "吉林",
+    "province_name": "吉林",
+    "listing_count": 4105,
+    "price_per_sqm": 5579.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "黄冈",
+    "province_name": "湖北",
+    "listing_count": 999,
+    "price_per_sqm": 5566.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "眉山",
+    "province_name": "四川",
+    "listing_count": 3059,
+    "price_per_sqm": 5566.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "达州",
+    "province_name": "四川",
+    "listing_count": 2034,
+    "price_per_sqm": 5550.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "安康",
+    "province_name": "陕西",
+    "listing_count": 870,
+    "price_per_sqm": 5537.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "泸州",
+    "province_name": "四川",
+    "listing_count": 3475,
+    "price_per_sqm": 5528.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "淮北",
+    "province_name": "安徽",
+    "listing_count": 1279,
+    "price_per_sqm": 5519.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "菏泽",
+    "province_name": "山东",
+    "listing_count": 1866,
+    "price_per_sqm": 5500.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "韶关",
+    "province_name": "广东",
+    "listing_count": 1024,
+    "price_per_sqm": 5494.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "南充",
+    "province_name": "四川",
+    "listing_count": 2156,
+    "price_per_sqm": 5476.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "内江",
+    "province_name": "四川",
+    "listing_count": 1551,
+    "price_per_sqm": 5466.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "昭通",
+    "province_name": "云南",
+    "listing_count": 740,
+    "price_per_sqm": 5456.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "大庆",
+    "province_name": "黑龙江",
+    "listing_count": 2110,
+    "price_per_sqm": 5447.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "南阳",
+    "province_name": "河南",
+    "listing_count": 4851,
+    "price_per_sqm": 5433.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "岳阳",
+    "province_name": "湖南",
+    "listing_count": 2484,
+    "price_per_sqm": 5422.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "平顶山",
+    "province_name": "河南",
+    "listing_count": 1883,
+    "price_per_sqm": 5400.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "喀什",
+    "province_name": "新疆",
+    "listing_count": 524,
+    "price_per_sqm": 5396.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "雅安",
+    "province_name": "四川",
+    "listing_count": 650,
+    "price_per_sqm": 5390.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "固原",
+    "province_name": "宁夏",
+    "listing_count": 493,
+    "price_per_sqm": 5369.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "昌吉",
+    "province_name": "新疆",
+    "listing_count": 1823,
+    "price_per_sqm": 5355.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "荆州",
+    "province_name": "湖北",
+    "listing_count": 983,
+    "price_per_sqm": 5337.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "六安",
+    "province_name": "安徽",
+    "listing_count": 2428,
+    "price_per_sqm": 5332.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "呼伦贝尔",
+    "province_name": "内蒙古",
+    "listing_count": 1152,
+    "price_per_sqm": 5314.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "渭南",
+    "province_name": "陕西",
+    "listing_count": 1824,
+    "price_per_sqm": 5313.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "乌海",
+    "province_name": "内蒙古",
+    "listing_count": 825,
+    "price_per_sqm": 5297.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "河源",
+    "province_name": "广东",
+    "listing_count": 897,
+    "price_per_sqm": 5284.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "兴安",
+    "province_name": "内蒙古",
+    "listing_count": 889,
+    "price_per_sqm": 5266.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "金昌",
+    "province_name": "甘肃",
+    "listing_count": 259,
+    "price_per_sqm": 5261.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "阳江",
+    "province_name": "广东",
+    "listing_count": 1274,
+    "price_per_sqm": 5239.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "红河",
+    "province_name": "云南",
+    "listing_count": 1251,
+    "price_per_sqm": 5238.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "宿州",
+    "province_name": "安徽",
+    "listing_count": 3106,
+    "price_per_sqm": 5190.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "海东",
+    "province_name": "青海",
+    "listing_count": 197,
+    "price_per_sqm": 5143.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "随州",
+    "province_name": "湖北",
+    "listing_count": 512,
+    "price_per_sqm": 5136.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "萍乡",
+    "province_name": "江西",
+    "listing_count": 488,
+    "price_per_sqm": 5097.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "黄石",
+    "province_name": "湖北",
+    "listing_count": 1710,
+    "price_per_sqm": 5093.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "贵港",
+    "province_name": "广西",
+    "listing_count": 1155,
+    "price_per_sqm": 5090.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "中卫",
+    "province_name": "宁夏",
+    "listing_count": 629,
+    "price_per_sqm": 5086.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "淮南",
+    "province_name": "安徽",
+    "listing_count": 1927,
+    "price_per_sqm": 5085.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "鸡西",
+    "province_name": "黑龙江",
+    "listing_count": 558,
+    "price_per_sqm": 5078.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "益阳",
+    "province_name": "湖南",
+    "listing_count": 1241,
+    "price_per_sqm": 5073.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "北海",
+    "province_name": "广西",
+    "listing_count": 10120,
+    "price_per_sqm": 5038.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "阿勒泰",
+    "province_name": "新疆",
+    "listing_count": 137,
+    "price_per_sqm": 5037.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "毕节",
+    "province_name": "贵州",
+    "listing_count": 1262,
+    "price_per_sqm": 5032.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "文山",
+    "province_name": "云南",
+    "listing_count": 1290,
+    "price_per_sqm": 5032.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "锡林郭勒",
+    "province_name": "内蒙古",
+    "listing_count": 579,
+    "price_per_sqm": 5031.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "自贡",
+    "province_name": "四川",
+    "listing_count": 1552,
+    "price_per_sqm": 4993.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "白银",
+    "province_name": "甘肃",
+    "listing_count": 450,
+    "price_per_sqm": 4980.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "驻马店",
+    "province_name": "河南",
+    "listing_count": 2497,
+    "price_per_sqm": 4972.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "贺州",
+    "province_name": "广西",
+    "listing_count": 207,
+    "price_per_sqm": 4942.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "常德",
+    "province_name": "湖南",
+    "listing_count": 3971,
+    "price_per_sqm": 4942.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "延边",
+    "province_name": "吉林",
+    "listing_count": 2034,
+    "price_per_sqm": 4942.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "遵义",
+    "province_name": "贵州",
+    "listing_count": 4216,
+    "price_per_sqm": 4939.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "衡阳",
+    "province_name": "湖南",
+    "listing_count": 2978,
+    "price_per_sqm": 4930.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "娄底",
+    "province_name": "湖南",
+    "listing_count": 895,
+    "price_per_sqm": 4916.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "嘉峪关",
+    "province_name": "甘肃",
+    "listing_count": 2186,
+    "price_per_sqm": 4911.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "漯河",
+    "province_name": "河南",
+    "listing_count": 1263,
+    "price_per_sqm": 4901.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "阿克苏",
+    "province_name": "新疆",
+    "listing_count": 1263,
+    "price_per_sqm": 4885.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "清远",
+    "province_name": "广东",
+    "listing_count": 4144,
+    "price_per_sqm": 4878.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "株洲",
+    "province_name": "湖南",
+    "listing_count": 2964,
+    "price_per_sqm": 4870.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "克拉玛依",
+    "province_name": "新疆",
+    "listing_count": 594,
+    "price_per_sqm": 4866.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "葫芦岛",
+    "province_name": "辽宁",
+    "listing_count": 2141,
+    "price_per_sqm": 4841.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "巴彦淖尔",
+    "province_name": "内蒙古",
+    "listing_count": 899,
+    "price_per_sqm": 4830.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "乐山",
+    "province_name": "四川",
+    "listing_count": 2806,
+    "price_per_sqm": 4821.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "六盘水",
+    "province_name": "贵州",
+    "listing_count": 862,
+    "price_per_sqm": 4813.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "伊春",
+    "province_name": "黑龙江",
+    "listing_count": 230,
+    "price_per_sqm": 4809.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "巴中",
+    "province_name": "四川",
+    "listing_count": 2552,
+    "price_per_sqm": 4807.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "钦州",
+    "province_name": "广西",
+    "listing_count": 1579,
+    "price_per_sqm": 4804.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "孝感",
+    "province_name": "湖北",
+    "listing_count": 1293,
+    "price_per_sqm": 4796.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "梧州",
+    "province_name": "广西",
+    "listing_count": 360,
+    "price_per_sqm": 4775.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "齐齐哈尔",
+    "province_name": "黑龙江",
+    "listing_count": 1722,
+    "price_per_sqm": 4737.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "宝鸡",
+    "province_name": "陕西",
+    "listing_count": 2353,
+    "price_per_sqm": 4716.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "曲靖",
+    "province_name": "云南",
+    "listing_count": 1445,
+    "price_per_sqm": 4708.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "通化",
+    "province_name": "吉林",
+    "listing_count": 1050,
+    "price_per_sqm": 4701.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "玉林",
+    "province_name": "广西",
+    "listing_count": 1083,
+    "price_per_sqm": 4698.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "牡丹江",
+    "province_name": "黑龙江",
+    "listing_count": 1258,
+    "price_per_sqm": 4696.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "本溪",
+    "province_name": "辽宁",
+    "listing_count": 958,
+    "price_per_sqm": 4688.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "朔州",
+    "province_name": "山西",
+    "listing_count": 475,
+    "price_per_sqm": 4676.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "阳泉",
+    "province_name": "山西",
+    "listing_count": 924,
+    "price_per_sqm": 4661.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "广安",
+    "province_name": "四川",
+    "listing_count": 1843,
+    "price_per_sqm": 4649.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "三门峡",
+    "province_name": "河南",
+    "listing_count": 455,
+    "price_per_sqm": 4649.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "巴州",
+    "province_name": "新疆",
+    "listing_count": 1546,
+    "price_per_sqm": 4625.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "朝阳",
+    "province_name": "辽宁",
+    "listing_count": 2028,
+    "price_per_sqm": 4621.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "铜川",
+    "province_name": "陕西",
+    "listing_count": 1838,
+    "price_per_sqm": 4599.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "资阳",
+    "province_name": "四川",
+    "listing_count": 397,
+    "price_per_sqm": 4598.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "湘潭",
+    "province_name": "湖南",
+    "listing_count": 2056,
+    "price_per_sqm": 4551.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "鄂州",
+    "province_name": "湖北",
+    "listing_count": 1127,
+    "price_per_sqm": 4545.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "永州",
+    "province_name": "湖南",
+    "listing_count": 1107,
+    "price_per_sqm": 4520.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "和田",
+    "province_name": "新疆",
+    "listing_count": 81,
+    "price_per_sqm": 4508.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "铜仁",
+    "province_name": "贵州",
+    "listing_count": 782,
+    "price_per_sqm": 4504.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "白城",
+    "province_name": "吉林",
+    "listing_count": 413,
+    "price_per_sqm": 4504.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "哈密",
+    "province_name": "新疆",
+    "listing_count": 713,
+    "price_per_sqm": 4463.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "周口",
+    "province_name": "河南",
+    "listing_count": 2859,
+    "price_per_sqm": 4461.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "黔西南",
+    "province_name": "贵州",
+    "listing_count": 1049,
+    "price_per_sqm": 4383.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "阜新",
+    "province_name": "辽宁",
+    "listing_count": 1869,
+    "price_per_sqm": 4369.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "黑河",
+    "province_name": "黑龙江",
+    "listing_count": 422,
+    "price_per_sqm": 4369.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "荆门",
+    "province_name": "湖北",
+    "listing_count": 1270,
+    "price_per_sqm": 4356.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "鞍山",
+    "province_name": "辽宁",
+    "listing_count": 1755,
+    "price_per_sqm": 4355.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "石嘴山",
+    "province_name": "宁夏",
+    "listing_count": 461,
+    "price_per_sqm": 4321.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "盘锦",
+    "province_name": "辽宁",
+    "listing_count": 1119,
+    "price_per_sqm": 4309.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "邵阳",
+    "province_name": "湖南",
+    "listing_count": 1081,
+    "price_per_sqm": 4309.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "楚雄",
+    "province_name": "云南",
+    "listing_count": 1237,
+    "price_per_sqm": 4296.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "云浮",
+    "province_name": "广东",
+    "listing_count": 850,
+    "price_per_sqm": 4288.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "黔东南",
+    "province_name": "贵州",
+    "listing_count": 926,
+    "price_per_sqm": 4277.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "营口",
+    "province_name": "辽宁",
+    "listing_count": 2244,
+    "price_per_sqm": 4272.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "辽阳",
+    "province_name": "辽宁",
+    "listing_count": 488,
+    "price_per_sqm": 4271.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "湘西",
+    "province_name": "湖南",
+    "listing_count": 413,
+    "price_per_sqm": 4243.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "抚顺",
+    "province_name": "辽宁",
+    "listing_count": 1541,
+    "price_per_sqm": 4242.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "绥化",
+    "province_name": "黑龙江",
+    "listing_count": 837,
+    "price_per_sqm": 4231.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "来宾",
+    "province_name": "广西",
+    "listing_count": 356,
+    "price_per_sqm": 4203.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "怀化",
+    "province_name": "湖南",
+    "listing_count": 1081,
+    "price_per_sqm": 4164.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "安顺",
+    "province_name": "贵州",
+    "listing_count": 1775,
+    "price_per_sqm": 4154.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "海西",
+    "province_name": "青海",
+    "listing_count": 574,
+    "price_per_sqm": 4139.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "防城港",
+    "province_name": "广西",
+    "listing_count": 945,
+    "price_per_sqm": 4101.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "塔城",
+    "province_name": "新疆",
+    "listing_count": 49,
+    "price_per_sqm": 4060.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "黔南",
+    "province_name": "贵州",
+    "listing_count": 1299,
+    "price_per_sqm": 3998.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "松原",
+    "province_name": "吉林",
+    "listing_count": 1310,
+    "price_per_sqm": 3981.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "咸宁",
+    "province_name": "湖北",
+    "listing_count": 2620,
+    "price_per_sqm": 3958.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "辽源",
+    "province_name": "吉林",
+    "listing_count": 675,
+    "price_per_sqm": 3945.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "百色",
+    "province_name": "广西",
+    "listing_count": 1981,
+    "price_per_sqm": 3919.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "河池",
+    "province_name": "广西",
+    "listing_count": 1130,
+    "price_per_sqm": 3839.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "乌兰察布",
+    "province_name": "内蒙古",
+    "listing_count": 675,
+    "price_per_sqm": 3786.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "七台河",
+    "province_name": "黑龙江",
+    "listing_count": 185,
+    "price_per_sqm": 3751.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "佳木斯",
+    "province_name": "黑龙江",
+    "listing_count": 1180,
+    "price_per_sqm": 3724.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "张掖",
+    "province_name": "甘肃",
+    "listing_count": 856,
+    "price_per_sqm": 3714.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "吐鲁番",
+    "province_name": "新疆",
+    "listing_count": 69,
+    "price_per_sqm": 3706.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "白山",
+    "province_name": "吉林",
+    "listing_count": 1176,
+    "price_per_sqm": 3693.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "铁岭",
+    "province_name": "辽宁",
+    "listing_count": 1131,
+    "price_per_sqm": 3636.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "四平",
+    "province_name": "吉林",
+    "listing_count": 1243,
+    "price_per_sqm": 3593.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "博州",
+    "province_name": "新疆",
+    "listing_count": 253,
+    "price_per_sqm": 3571.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "崇左",
+    "province_name": "广西",
+    "listing_count": 203,
+    "price_per_sqm": 3513.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "双鸭山",
+    "province_name": "黑龙江",
+    "listing_count": 621,
+    "price_per_sqm": 3470.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "大兴安岭",
+    "province_name": "黑龙江",
+    "listing_count": 47,
+    "price_per_sqm": 3050.0,
+    "recorded_at": "2026-04-20"
+  },
+  {
+    "city_name": "鹤岗",
+    "province_name": "黑龙江",
+    "listing_count": 293,
+    "price_per_sqm": 2095.0,
+    "recorded_at": "2026-04-20"
+  }
+]
